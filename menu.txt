@@ -1,0 +1,34 @@
+admin
++ melihat stok				clear
++ menambah data  member 		clear
++ mengganti harga barang
++ menambah kasir			clear
++ menambah op gudang			clear
++ melihat data transaksi
+
+
+
+kasir
++ melihat member			clear
++ transaksi
+
+
+kasir ol
++ melihat data member			clear
++ transaksi
+
+
+op gudang
++ menambah stok barang			clear
++ melihat stok barang			clear
+
+
+
+
+
+menu utama
+sistem/log out=>log out						clear
+barang=> menambah barang, melihat stok barang			clear
+member=> menambah member, melihat data member			clear
+transaksi=> jual barang offline, jual barang online, data transaksi, cetak
+pegawai=> menambah kasir toko, menambah kasir online, menambah opt gudang, melihat data pegawai dan pass 		clear
